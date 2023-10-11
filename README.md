@@ -1,2 +1,3 @@
 # hackerRank-python
-hackerRank python programming questions 
+
+hackerRank python programming solved questions
