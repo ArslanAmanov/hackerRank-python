@@ -31,7 +31,7 @@ The input read by the program is stored as a string data type. A string is a col
 def print_full_name(first, last):
     a = first
     b = last
-    print("Hello" + a, b + "!"+" You just delved into python")
+    print("Hello " + a, b + "!"+" You just delved into python")
 
 
 if __name__ == '__main__':
